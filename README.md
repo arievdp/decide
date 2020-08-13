@@ -2,8 +2,6 @@
 
 Decide is web app that selects a restaurant based on the geographic midpoint and most popular food preference of a group of users that are invited to an event.
 
-It was created as part of the final project at Le Wagon Bootcamp, cohort #404.
-
 Decide uses:
 - Ruby, Ruby on Rails
 - Javascript
