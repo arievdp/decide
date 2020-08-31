@@ -8,6 +8,14 @@ Decide uses:
 - Action cable
 - Postgresql
 - Bootstrap
+- Mapbox
+
+API's
+- Google Places
+- Mapbox
+- Yelp
+- Zomato
+- Geocoder
 
 ## Contributors
 
