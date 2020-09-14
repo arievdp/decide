@@ -9,6 +9,7 @@ Decide uses:
 - Postgresql
 - Bootstrap
 - Mapbox
+- Geocoder
 
 API's
 - Google Places
