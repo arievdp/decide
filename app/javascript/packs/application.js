@@ -15,7 +15,7 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
-
+var x = document.getElementById("#demo");
 
 // ----------------------------------------------------
 // Note(lewagon): ABOVE IS RAILS DEFAULT CONFIGURATION
@@ -46,3 +46,5 @@ document.addEventListener('turbolinks:load', () => {
     $(this).toggleClass("active");
   });
 })
+
+
