@@ -1,7 +1,7 @@
 import { Loader } from '@googlemaps/js-api-loader';
 require('dotenv').config();
 const initPlaces = () => {
-  const placesInput = document.querySelector("getLocation")
+  const placesInput = document.querySelector("#location")
   if (placesInput) {
     const loader = new Loader({
       apiKey: process.env.GPLACES_KEY,

@@ -32,10 +32,10 @@ import { initSelect2 } from '../plugins/init_select2';
 import { initEventCable } from '../channels/event_channel';
 import { initSweetAlert } from '../plugins/init_sweetalert';
 import { initArrowChange} from '../plugins/init_arrowchange';
-import { getLocation } from '../plugins/init_geolocation.js';
+// import { getLocation } from '../plugins/init_geolocation.js';
 
 document.addEventListener('turbolinks:load', () => {
-  getLocation();
+  // getLocation();
   initMapbox();
   initPlaces();
   initEventCable();
