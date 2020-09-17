@@ -1,17 +1,22 @@
 # Decide
 
-Decide isn MVP of a web app that selects a restaurant based on the geographic midpoint and most popular food preference of a group of users that are invited to an event.
+Decide is an MVP of a web app that selects a restaurant based on the geographic midpoint and most popular food preference of a group of users that are invited to an event.
 
 url: https://decide-mvp.herokuapp.com/
 
 Decide uses:
-- Ruby, Ruby on Rails
-- Javascript
+- Ruby on Rails
 - Action cable
 - Postgresql
 - Bootstrap
+- Font Awesome
 - Mapbox
 - Geocoder
+- Devise
+
+Hosting:
+- Heroku
+- Cloudinary
 
 API's
 - Google Places
