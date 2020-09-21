@@ -18,7 +18,7 @@ Hosting:
 - Heroku
 - Cloudinary
 
-API's
+API's:
 - Google Places
 - Mapbox
 - Yelp
