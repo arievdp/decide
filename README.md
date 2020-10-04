@@ -13,10 +13,13 @@ Decide uses:
 - Mapbox
 - Geocoder
 - Devise
+- Devise invitable
+- Letter Opener
 
 Hosting:
 - Heroku
 - Cloudinary
+- Gmail
 
 API's:
 - Google Places
